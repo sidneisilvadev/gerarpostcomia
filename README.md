@@ -1,0 +1,2 @@
+# gerarpostcomia
+prompt de ia 
