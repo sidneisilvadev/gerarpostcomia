@@ -1,0 +1,19 @@
+/* Estilos para o editor */
+.mce-btn.mce-btn-small {
+    padding: 2px 3px;
+}
+
+.mce-fontselect, .mce-fontsizeselect, .mce-forecolor {
+    margin: 0 2px !important;
+}
+
+.mce-txt {
+    font-size: 12px !important;
+}
+
+/* Ajustes para o seletor de cor */
+.mce-colorbutton .mce-preview {
+    margin: 0 3px;
+    padding: 0 3px;
+    width: 16px;
+} 
